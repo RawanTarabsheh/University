@@ -1,0 +1,205 @@
+body
+{
+	font-family: "Rubik", arial, sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 2px;
+	color: gray;
+}
+p
+{
+  font-weight: 300;
+    font-size: 16px;
+    line-height: 2;	
+}
+.namecol
+{
+	color: #11cbd7;
+}
+.aunderline:hover
+{
+	text-decoration: none;
+}
+.bgimg
+{
+ background-image: url(../img/slider.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 500px;
+}
+.arth2
+{
+ font-size: 45px;
+  color: #11cbd7;
+}
+#buts
+{
+background-color: #11cbd7 !important;
+border-color: #11cbd7;
+color: #fff;
+}
+#buts:hover
+{
+ background-color: #fff !important;
+border-color: #11cbd7;
+color: #000;
+}
+#butr
+{
+background-color: #11cbd7 !important;
+border-color: #11cbd7;
+color: #fff;
+width: 200px;
+height: 60px;
+}
+#butr:hover
+{
+background-color: unset !important;
+border-color: #fff;
+color: #fff;
+}
+.eduicon
+{
+	font-size: 50px;
+	color: gray;
+}
+.nav-link
+{
+ color: #000;
+}
+.nav-link:hover
+{
+ color: #000;
+}
+.fffcolor
+{
+ color: #fff;
+}
+.readmore
+{
+	text-decoration: none !important;
+    font-size: 13px;
+}
+.title
+{
+	font-size: 20px;
+	color: #000;
+	font-weight: 300;
+	text-decoration: none;
+}
+.title:hover
+{
+	color: #11cbd7;
+	font-weight: 300;
+	text-decoration: none;
+}
+.free
+{
+	background: #11cbd7;
+    border-radius: 4px;
+    color: #fff;
+}
+.backgcolor
+{
+	background: #f8f9fa!important;
+}
+.personimg
+{
+	width: 40px;
+	height: 40px;
+}
+.personname
+{
+	display: block;
+	color: gray;
+}
+.ahref
+{
+color: #000;
+text-decoration: none;
+}
+.ahref:hover
+{
+	color: #11cbd7 !important;
+	text-decoration: none;
+}
+.iconcolor
+{
+color: #b3b3b3;
+font-size: 13px;
+}
+.iconcolor:hover
+{
+	color: #000;
+}
+.iconcolorblog
+{
+color: #b3b3b3;
+font-size: 15px;
+}
+.iconcolorblog:hover
+{
+	color: #000;	
+}
+.rotet
+{
+ -webkit-transform:rotateY(180deg);
+  -moz-transform:rotateY(180deg);
+  -o-transform:rotateY(180deg);
+  -ms-transform:rotateY(180deg);
+}
+.bgblue
+{
+	background-color: #11cbd7;
+}
+#butemail
+{
+ background-color: #11cbd7;
+  border-color: #11cbd7;
+color: #fff;
+height: 50px;
+}
+#butemail:hover
+{
+	    border: 2px solid #11cbd7 !important;
+	    background: #fff;
+	    color: #000;
+}
+.inputemail
+{
+	background: #fff;
+}
+.colorlib
+{
+	color: #11cbd7!important;
+	text-decoration: none;
+}
+.colorlib:hover
+{
+	color:  gray!important;
+	text-decoration: none;
+}
+.titlefooter
+{
+	font-size: 18px;
+	font-weight: 300;
+}
+.iconcolorf
+{
+	color: #b3b3b3;
+
+}
+.edunum
+{
+	font-size: 37px;
+    line-height: 1.5;
+    color: #11cbd7;
+}
+.edulabel
+{
+line-height: 1.5;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    color: #ccc;
+}
